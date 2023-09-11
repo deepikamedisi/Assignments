@@ -1,0 +1,7 @@
+D:\training programs\Code Best test1\Code Best test1\bin\Debug\Code Best test1.exe.config
+D:\training programs\Code Best test1\Code Best test1\bin\Debug\Code Best test1.exe
+D:\training programs\Code Best test1\Code Best test1\bin\Debug\Code Best test1.pdb
+D:\training programs\Code Best test1\Code Best test1\obj\Debug\Code Best test1.csproj.AssemblyReference.cache
+D:\training programs\Code Best test1\Code Best test1\obj\Debug\Code Best test1.csproj.CoreCompileInputs.cache
+D:\training programs\Code Best test1\Code Best test1\obj\Debug\Code Best test1.exe
+D:\training programs\Code Best test1\Code Best test1\obj\Debug\Code Best test1.pdb
