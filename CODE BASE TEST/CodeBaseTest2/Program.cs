@@ -35,7 +35,7 @@ namespace CodeBaseTest_2
     {
         static void Main(string[] args)
         {
-            // Creating an Undergraduate student
+          
             Undergraduate undergradStudent = new Undergraduate
             {
                 Name = "John",
@@ -43,7 +43,7 @@ namespace CodeBaseTest_2
                 Grade = 75.0
             };
 
-            // Creating a Graduate student
+          
             Graduate gradStudent = new Graduate
             {
                 Name = "Jane",
@@ -51,7 +51,7 @@ namespace CodeBaseTest_2
                 Grade = 85.0
             };
 
-            // Testing whether they passed
+            
             Console.WriteLine($"{undergradStudent.Name} passed: {undergradStudent.IsPassed(undergradStudent.Grade)}");
             Console.WriteLine($"{gradStudent.Name} passed: {gradStudent.IsPassed(gradStudent.Grade)}");
             Console.ReadLine();
