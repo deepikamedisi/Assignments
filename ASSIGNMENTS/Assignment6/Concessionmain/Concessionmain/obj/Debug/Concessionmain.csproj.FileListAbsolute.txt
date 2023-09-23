@@ -1,0 +1,10 @@
+D:\training programs\Concessionmain\Concessionmain\bin\Debug\Concessionmain.exe.config
+D:\training programs\Concessionmain\Concessionmain\bin\Debug\Concessionmain.exe
+D:\training programs\Concessionmain\Concessionmain\bin\Debug\Concessionmain.pdb
+D:\training programs\Concessionmain\Concessionmain\obj\Debug\Concessionmain.csproj.AssemblyReference.cache
+D:\training programs\Concessionmain\Concessionmain\obj\Debug\Concessionmain.csproj.CoreCompileInputs.cache
+D:\training programs\Concessionmain\Concessionmain\obj\Debug\Concessionmain.exe
+D:\training programs\Concessionmain\Concessionmain\obj\Debug\Concessionmain.pdb
+D:\training programs\Concessionmain\Concessionmain\bin\Debug\Concession.dll
+D:\training programs\Concessionmain\Concessionmain\bin\Debug\Concession.pdb
+D:\training programs\Concessionmain\Concessionmain\obj\Debug\Concessionmain.csproj.CopyComplete
