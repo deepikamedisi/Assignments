@@ -1,0 +1,11 @@
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\bin\Debug\RemotingServer.exe
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\bin\Debug\RemotingServer.pdb
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\bin\Debug\RemotingServer.exe.config
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.AssemblyReference.cache
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CoreCompileInputs.cache
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.CopyComplete
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
