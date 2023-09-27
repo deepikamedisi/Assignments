@@ -1,0 +1,14 @@
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\bin\Debug\Remotingclient.exe.config
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\bin\Debug\Remotingclient.exe
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\bin\Debug\Remotingclient.pdb
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\bin\Debug\Remotingserver.exe
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\bin\Debug\Remotingserver.pdb
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\bin\Debug\Remotingserver.exe.config
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.AssemblyReference.cache
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.Form1.resources
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.Properties.Resources.resources
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.GenerateResource.cache
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.CoreCompileInputs.cache
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.csproj.CopyComplete
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.exe
+D:\training programs\csharp\ASSIGNMENTS\Assignment7\Remotingclient\Remotingclient\obj\Debug\Remotingclient.pdb
