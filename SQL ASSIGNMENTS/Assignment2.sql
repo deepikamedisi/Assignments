@@ -93,7 +93,7 @@ order by ename desc
 
 select * from dept
 
-select dname,sum (sal) as Total_sal from dept join emp on dept.deptno=emp.deptno group by dname 
+select dname,dept.deptno ,sum (sal) as Total_sal from dept join emp on dept.deptno=emp.deptno group by dname ,dept.deptno
 
 --11. Find out salary of both MILLER and SMITH.
 
