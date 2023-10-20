@@ -1,0 +1,7 @@
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+D:\training programs\csharp\SQL ASSIGNMENTS\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
