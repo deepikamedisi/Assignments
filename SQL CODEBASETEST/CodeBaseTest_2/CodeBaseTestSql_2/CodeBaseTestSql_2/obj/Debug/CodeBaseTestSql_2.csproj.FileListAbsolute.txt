@@ -1,0 +1,7 @@
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\bin\Debug\CodeBaseTestSql_2.exe.config
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\bin\Debug\CodeBaseTestSql_2.exe
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\bin\Debug\CodeBaseTestSql_2.pdb
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\obj\Debug\CodeBaseTestSql_2.csproj.AssemblyReference.cache
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\obj\Debug\CodeBaseTestSql_2.csproj.CoreCompileInputs.cache
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\obj\Debug\CodeBaseTestSql_2.exe
+D:\training programs\csharp\SQL CODEBASETEST\CodeBaseTestSql_2\CodeBaseTestSql_2\obj\Debug\CodeBaseTestSql_2.pdb

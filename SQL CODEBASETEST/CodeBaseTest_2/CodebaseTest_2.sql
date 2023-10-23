@@ -7,20 +7,20 @@ create table Code_Employee(
  emptype char(1)
  );
 
-create procedure AddNewEmployee(
-    @empname varchar(25),
-    @empsal decimal(10, 2),
-    @emptype char(1)
-)
-as
-begin
-declare @new_empno int;
-select @new_empno=isnull(max(empno),0)+1 from Code_Employee
-insert into Code_Employee(empno, empname,empsal, emptype) values
-(@new_empno, @empname, @empsal, @emptype)
-select * from Code_Employee where empno=@new_empno
-end
-select *from Code_Employee
+ 
+CREATE or alter PROCEDURE  AddEmployee
+   @empname varchar(45),
+   @empsal numeric(10,3),
+   @emptype char(1)
+AS
+BEGIN
+   DECLARE @empno int;
+ 
+   SELECT @empno = ISNULL(MAX(empno), 0) + 1 FROM Code_Employee;
+ 
+   INSERT INTO Code_Employee (empno, empname, empsal, emptype)
+   VALUES (@empno, @empname, @empsal, @emptype);
+END;
 
 use Assignment2
 select * from Emp

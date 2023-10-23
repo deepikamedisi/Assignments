@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53C642A7-C85A-47C1-B520-5F9AF18F0241}</ProjectGuid>
+    <ProjectGuid>{B894E79E-C8D3-4C8B-9F8D-61AE50C4D647}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SQlCodebaseTest2</RootNamespace>
-    <AssemblyName>SQlCodebaseTest2</AssemblyName>
+    <RootNamespace>CodeBaseTestSql_2</RootNamespace>
+    <AssemblyName>CodeBaseTestSql_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

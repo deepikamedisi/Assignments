@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SQlCodebaseTest2")]
+[assembly: AssemblyTitle("CodeBaseTestSql_2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SQlCodebaseTest2")]
+[assembly: AssemblyProduct("CodeBaseTestSql_2")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("53c642a7-c85a-47c1-b520-5f9af18f0241")]
+[assembly: Guid("b894e79e-c8d3-4c8b-9f8d-61ae50c4d647")]
 
 // Version information for an assembly consists of the following four values:
 //
