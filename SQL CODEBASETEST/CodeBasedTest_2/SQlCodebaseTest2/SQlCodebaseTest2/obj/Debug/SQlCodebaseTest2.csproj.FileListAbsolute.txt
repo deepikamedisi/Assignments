@@ -1,0 +1,7 @@
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\bin\Debug\SQlCodebaseTest2.exe.config
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\bin\Debug\SQlCodebaseTest2.exe
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\bin\Debug\SQlCodebaseTest2.pdb
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\obj\Debug\SQlCodebaseTest2.csproj.AssemblyReference.cache
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\obj\Debug\SQlCodebaseTest2.csproj.CoreCompileInputs.cache
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\obj\Debug\SQlCodebaseTest2.exe
+D:\training programs\SQlCodebaseTest2\SQlCodebaseTest2\obj\Debug\SQlCodebaseTest2.pdb
