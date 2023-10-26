@@ -1,0 +1,7 @@
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\bin\Debug\CASESTUDY_ADO.NET.exe.config
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\bin\Debug\CASESTUDY_ADO.NET.exe
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\bin\Debug\CASESTUDY_ADO.NET.pdb
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\obj\Debug\CASESTUDY_ADO.NET.csproj.AssemblyReference.cache
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\obj\Debug\CASESTUDY_ADO.NET.csproj.CoreCompileInputs.cache
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\obj\Debug\CASESTUDY_ADO.NET.exe
+D:\training programs\csharp\CASESTUDY_ADO.NET\CASESTUDY_ADO.NET\obj\Debug\CASESTUDY_ADO.NET.pdb
