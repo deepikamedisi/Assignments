@@ -1,2 +1,0 @@
-D:\training programs\csharp\CODE BASE TEST\PROJECT1\PROJECT1\obj\Debug\PROJECT1.csproj.AssemblyReference.cache
-D:\training programs\csharp\CODE BASE TEST\PROJECT1\PROJECT1\obj\Debug\PROJECT1.csproj.CoreCompileInputs.cache
